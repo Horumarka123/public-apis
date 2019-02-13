@@ -41,6 +41,7 @@ Please note a passing build status indicates all listed APIs are available since
 * [Jobs](#jobs)
 * [Machine Learning](#machine-learning)
 * [Music](#music)
+* [Natural Language Processing] (#natural-language-processing)
 * [News](#news)
 * [Open Data](#open-data)
 * [Open Source Projects](#open-source-projects)
@@ -532,6 +533,10 @@ API | Description | Auth | HTTPS | CORS |
 | [TasteDive](https://tastedive.com/read/api) | Similar artist API (also works for movies and TV shows) | `apiKey` | Yes | Unknown |
 | [TheAudioDB](http://www.theaudiodb.com) | Music | `apiKey` | No | Unknown |
 | [Vagalume](https://api.vagalume.com.br/docs/) | Crowdsourced lyrics and music knowledge | `apiKey` | Yes | Unknown |
+
+### Natural Language Processing
+
+* [Stanford NLP](http://standfordnlp.org)
 
 ### News
 API | Description | Auth | HTTPS | CORS |
